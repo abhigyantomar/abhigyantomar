@@ -1,4 +1,4 @@
-logo (https://github.com/abhigyantomar/abhigyantomar/blob/main/header_gif.gif)
+![logo] (https://github.com/abhigyantomar/abhigyantomar/blob/main/header_gif.gif)
 
 <h1 align="center">Hi 👋, I'm Abhigyan</h1>
 <h3 align="center">A passionate data analyst</h3>
